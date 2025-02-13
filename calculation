@@ -34,6 +34,7 @@ calculate() {
     esac
 
     echo "Result: $result"
+    echo "This is Rinsy"
 }
 
 # Main script
